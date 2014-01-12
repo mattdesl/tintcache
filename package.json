@@ -1,0 +1,20 @@
+{
+  "name": "tintcache",
+  "version": "0.0.0",
+  "description": "Tinting images for real-time Canvas rendering",
+  "main": "tint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt DesLauriers <dave.des@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "klasse": "~1.0.6",
+    "imagebuffer": "~3.0.0",
+    "imagetint": "~0.0.0"
+  },
+  "devDependencies": {
+    "domready": "~0.2.13",
+    "raf.js": "0.0.3"
+  }
+}

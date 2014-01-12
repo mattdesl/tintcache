@@ -1,0 +1,1 @@
+beefy particles.js --cwd demos --live -- -r './index.js:tintcache'
